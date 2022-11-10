@@ -1,2 +1,1 @@
-# MauricioRepo
-nose nada xd
+# Proyecto De informatica
